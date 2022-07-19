@@ -4515,7 +4515,7 @@
  	 	"equipmentUpgrade": {
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Вставь ядро калибровки снаряжения в машину, и я помогу тебе откалибровать любое твоё снаряжение."
+ 	 	 	 	 	"Вставь Ядро Калибровки снаряжения в машину, и я помогу тебе откалибровать любое твоё снаряжение."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Insert a Calibration Core into the machine, and I shall help you calibrate any of your equipment."
@@ -4660,7 +4660,7 @@
  	 	 	 	"eng": "Reinforce occupation at Shangri-la"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Помоги укрепить и установить больше контроля над Шангри-Ла Сити.",
+ 	 	 	 	"trans": "Помоги укрепить и установить больший контроль над Шангри-Ла Сити.",
  	 	 	 	"eng": "Help reinforce and establish greater control of Shangri-la city."
  	 	 	}
  	 	},
@@ -4690,7 +4690,7 @@
  	 	 	 	"eng": "Play MEGA Pachinko s plus pro max"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Konnichiwa !! Uwu \r\n         Ты чувствуешь себя богатым и счастливчиком сегодня? \r\n         Сыграйте сейчас только 1 000 000 BTC один раз (ограниченное время специального предложения!) С 0,1% шансов выиграть эпический элемент!",
+ 	 	 	 	"trans": "Konnichiwa !! Uwu \r\n         Ты чувствуешь себя богатым и удачливым сегодня? \r\n         Сыграйте сейчас только 1 000 000 BTC один раз (ограниченное время специального предложения!) С 0,1% шансов выиграть эпический элемент!",
  	 	 	 	"eng": "Konnichiwa!! UwU\r\n        Are you feeling rich and lucky today?\r\n        play now only 1,000,000 btc once (limited time special offer!) with 0.1% chance to win a EPIC item! \r\n        "
  	 	 	}
  	 	},
@@ -4894,7 +4894,7 @@
  	 	},
  	 	"christmasGift": {
  	 	 	"name": {
- 	 	 	 	"trans": "Разблокировать таинственный контейнер",
+ 	 	 	 	"trans": "Разблокировать Таинственный Контейнер",
  	 	 	 	"eng": "Unlock Mysterious Container"
  	 	 	}
  	 	},
@@ -4910,7 +4910,7 @@
  	 	},
  	 	"backpack2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Поясная сумка",
+ 	 	 	 	"trans": "Поясная Сумка",
  	 	 	 	"eng": "Fanny Pack"
  	 	 	}
  	 	},
@@ -4934,7 +4934,7 @@
  	 	},
  	 	"aiCoreCluster": {
  	 	 	"name": {
- 	 	 	 	"trans": "Ai Core Cluster",
+ 	 	 	 	"trans": "Кластер ядер ИИ",
  	 	 	 	"eng": "AI Core Cluster"
  	 	 	}
  	 	},
@@ -5294,7 +5294,7 @@
  	 	 	"eng": "of Life"
  	 	},
  	 	"upgradeStun": {
- 	 	 	"trans": "ошлушения",
+ 	 	 	"trans": "оглушения",
  	 	 	"eng": "of Stun"
  	 	},
  	 	"upgradeCriticalChance": {
@@ -5499,7 +5499,7 @@
  	 	},
  	 	"block": {
  	 	 	"title": {
- 	 	 	 	"trans": "Вы уверены, что хотите заблокировать этот игрок?",
+ 	 	 	 	"trans": "Вы уверены, что хотите заблокировать этого игрока?",
  	 	 	 	"eng": "Are you sure you want to block this player?"
  	 	 	}
  	 	},
@@ -5749,10 +5749,10 @@
  	 	 	 	}
  	 	 	},
  	 	 	"kick": {
- 	 	 	 	"trans": "Пинать",
+ 	 	 	 	"trans": "Изгнать",
  	 	 	 	"eng": "Kick",
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Наденьте других игроков из вашей банды.",
+ 	 	 	 	 	"trans": "Исключите других игроков из вашей банды.",
  	 	 	 	 	"eng": "Kick other players from your gang."
  	 	 	 	}
  	 	 	},
